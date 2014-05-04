@@ -1,0 +1,15 @@
+name: ChunkVisualizer
+version: 0.2.2
+description: Allows you to view chunk borders.
+author: Codex_Arcanum
+main: com.codex_arcanum.chunkvisualizer.ChunkVisualizer
+
+commands:
+  chunkvisualizer:
+    description: Set yourself on fire.
+    aliases: [cv, sc, seechunks]
+    permission: chunkvisualizer.view
+    usage: Syntax error! Simply type /<command> to see chunk borders.
+permissions:
+  chunkvisualizer.view:
+    description: Gives access to chunk visualization.

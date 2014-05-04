@@ -1,0 +1,5 @@
+# ChunkVisualizer config file
+requiresop: false
+checkeredborder: false
+borderblockid: 20
+borderblockdata: 0
